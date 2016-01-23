@@ -73,11 +73,11 @@ Prova a salvare di nuovo questa partita." />
         
         <text name="NotWhileRefilling"          text="Non è possibile durante il riempimento!" />
 
-        <text name="CustomSettingsError"        text="An unknown or wrong custom-value was specified in the careerSavegame.XML in the <fmcSoilMod> block.
-You need to fix this, because it is causing you to not be able to use this function.
+        <text name="CustomSettingsError"        text="È presente un valore errato nel file careerSavegame.xml nella sezione <fmcSoilMod>.
+È necessario risolvere questo errore, altrimenti non è possibile utilizzare questa funzione.
 
-Custom-setting name: '%s'
-Value that is wrong: '%s'"
+Nome parametro: '%s'
+Valore errato: '%s'"
         />
 
     </texts>
